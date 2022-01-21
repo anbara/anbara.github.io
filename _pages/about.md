@@ -14,6 +14,7 @@ A doctoral student at [Nambu Lab.](https://gallery.nagaokaut.ac.jp/), Nagaoka Un
 - Brain Computer Interface
 - Signal Processing
 - Deep Learning
+- Robotics
 
 # Academic Backgrounds
 2020-Current  

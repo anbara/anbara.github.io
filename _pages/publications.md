@@ -5,17 +5,18 @@ permalink: /publications/
 author_profile: false
 ---
 
-# Paper
+## Paper
 
+Coming soon.
 
-# International conference
+## International conference
 1. ***Masaki Yasuhara***, Isao Nambu, Yoshiko Maruyama, and Yasuhiro Wada, Decoding Individual Finger Movements of Motor Execution and Imagery Using CNN from Human EEG, EMBC2021.
 
 1. ***Masaki Yasuhara***, Shohei Yano, Takayuki Arakawa, and Takafumi Koshinaka, Feature Selection and its
 Evaluation in Binaural Ear Acoustic Authentication, Paper 10160, AES Dubrin, https://www.aes.org/e-lib/browse.cfm?elib=20293
 
 
-# Domestic conference
+## Domestic conference
 1. ***安原雅貴***，藤橋達志，矢野昌平，荒川隆行，越仲孝文，“耳音響認証の特徴量抽出手法に関する研究,” 電子情報通信学会信越支部大会，ポスター発表，長野 (2017)
 
 1. ***安原雅貴***，矢野昌平，荒川隆行，越仲孝文，“両耳での耳音響認証の特徴量設計,” 電子情報通信学会信越支部大会，口頭発表，新潟 (2018)

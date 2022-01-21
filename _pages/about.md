@@ -10,6 +10,10 @@ redirect_from:
 
 A doctoral student at [Nambu Lab.](https://gallery.nagaokaut.ac.jp/), Nagaoka University of Technology.
 
+Since 2018, I'm in charge of the leader for [INPUT](https://input-ssl.dev/) which a robocup SSL team.
+
+In 2017, we became a champion for Robocup Junior Soccer open league. ([website](http://rcjinput.blog.jp/))
+
 # Research Interests
 - Brain Computer Interface
 - Deep Learning

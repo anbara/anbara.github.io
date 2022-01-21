@@ -2,15 +2,31 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Paper
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# International conference
+1. ***Masaki Yasuhara***, Isao Nambu, Yoshiko Maruyama, and Yasuhiro Wada, Decoding Individual Finger Movements of Motor Execution and Imagery Using CNN from Human EEG, EMBC2021.
+
+1. ***Masaki Yasuhara***, Shohei Yano, Takayuki Arakawa, and Takafumi Koshinaka, Feature Selection and its
+Evaluation in Binaural Ear Acoustic Authentication, Paper 10160, AES Dubrin, https://www.aes.org/e-lib/browse.cfm?elib=20293
+
+
+# Domestic conference
+1. ***安原雅貴***，藤橋達志，矢野昌平，荒川隆行，越仲孝文，“耳音響認証の特徴量抽出手法に関する研究,” 電子情報通信学会信越支部大会，ポスター発表，長野 (2017)
+
+1. ***安原雅貴***，矢野昌平，荒川隆行，越仲孝文，“両耳での耳音響認証の特徴量設計,” 電子情報通信学会信越支部大会，口頭発表，新潟 (2018)
+
+1. ***安原雅貴***，中田亘，矢野昌平，樋口泰浩，山崎克之，“IoT技術を用いた水位センサの開発,” 電子情報通信学会信越支部大会，ポスター発表，新潟 (2018)
+
+1. ***安原雅貴***，矢野昌平，荒川隆行，越仲孝文，“耳音響認証における特徴量の性能とEERの関係,” 第8回バイオメトリクスと認識・認証シンポジウム，ポスター発表，東京 (2018)
+
+1. ***安原雅貴***，荒川隆行，越仲孝文，矢野昌平，“耳音響認証における観測ゆらぎ軽減手法の一検討,” 人工知能 学会全国大会論文集, 2019, JSAI2019 巻, 第 33 回全国大会(2019), セッション ID 3Rin2-25, p. 3Rin225,
+https://doi.org/10.11517/pjsai.JSAI2019.0_3Rin225
+
+1. ***安原雅貴***，荒川隆行，越仲孝文，和久井直樹，矢野昌平,“Between-class 特徴を用いた耳音響認証精度向上に関する一検討,” 電子情報通信学会信越支部大会，口頭発表，長岡 (2019)
+
+1. ***安原雅貴***，南部功夫，和田安弘，“SVMを用いた脳波による指の運動想起判別に関する検討,” 電子情報通信学会信越支部大会，口頭発表，オンライン開催 (2020)

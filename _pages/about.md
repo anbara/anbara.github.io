@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph. D student at Nambu Lab., Nagaoka University of Technology.
+A doctoral student at [Nambu Lab.](https://gallery.nagaokaut.ac.jp/), Nagaoka University of Technology.
 
 # Research Interests
 - Brain Computer Interface

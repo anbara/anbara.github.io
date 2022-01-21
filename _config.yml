@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Masaki Yasuhara"
 title_separator          : "-"
 name                     : &name "Masaki Yasuhara"
-description              : &description "Ph. D student at Nagaoka University of Technology"
+description              : &description "A doctoral student at Nagaoka University of Technology"
 url                      : https://anbara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anbara/anbara.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mr. Masaki Yasuhara"
   avatar           : "MY.png"
-  bio              : "Ph. D student at Nagaoka University of Technology"
+  bio              : "A doctoral student at Nagaoka University of Technology."
   location         : "Niigata, Japan"
   employer         :
   pubmed           : 

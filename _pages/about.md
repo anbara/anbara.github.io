@@ -12,7 +12,6 @@ A doctoral student at [Nambu Lab.](https://gallery.nagaokaut.ac.jp/), Nagaoka Un
 
 # Research Interests
 - Brain Computer Interface
-- Signal Processing
 - Deep Learning
 - Robotics
 

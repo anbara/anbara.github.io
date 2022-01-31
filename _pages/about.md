@@ -63,7 +63,7 @@ Department of Electrical and Electronic Systems Engineering, National Institute 
 
 1. 2018 独立行政法人国立高等専門学校機構 「理事長特別表彰」
 
-1. 2019 長岡市表彰 「RoboCup2017世界大会ロボカップジュニアサ ッカーオープンリーグ個人戦および団体戦で優 勝された功績」
+1. 2019 長岡市表彰 「RoboCup2017世界大会ロボカップジュニアサ ッカーオープンリーグ個人戦および団体戦で優勝された功績」
 
 1. 2018 「NICTオープンハウス2018」学生によるポスターセッション - 優秀研究賞
 

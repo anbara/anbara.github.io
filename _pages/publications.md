@@ -9,6 +9,10 @@ author_profile: false
 
 Coming soon.
 
+## Pre-print
+
+1. ***Masaki Yasuhara***, Tomoya Takahashi, et. al., INPUT Team Description Paper in 2022, [arXiv:2202.00210](https://arxiv.org/abs/2202.00210).
+
 ## International conference
 1. ***Masaki Yasuhara***, Isao Nambu, Yoshiko Maruyama, and Yasuhiro Wada, Decoding Individual Finger Movements of Motor Execution and Imagery Using CNN from Human EEG, EMBC2021.
 

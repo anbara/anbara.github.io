@@ -11,7 +11,7 @@ author_profile: false
 
 ## Pre-print
 
-1. **Masaki Yasuhara**, Tomoya Takahashi, Hiroki Maruta, Hiroyuki Saito, Shota Higuchi, Takaaki Nara, Keitaro Takeuchi, Yota Sakai, Kazuki Ishibashi. INPUT Team Description Paper in 2022. https://doi.org/10.48550/arXiv.2202.00210
+1. **Masaki Yasuhara**, Tomoya Takahashi, Hiroki Maruta, Hiroyuki Saito, Shota Higuchi, Takaaki Nara, Keitaro Takeuchi, Yota Sakai, Kazuki Ishibashi. INPUT Team Description Paper in 2022. *arXiv*. https://doi.org/10.48550/arXiv.2202.00210
 
 ## International conference
 1. **Masaki Yasuhara**, Isao Nambu, Yoshiko Maruyama, and Yasuhiro Wada. Decoding Individual Finger Movements of Motor Execution and Imagery Using CNN from Human EEG. *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society*. 2021.

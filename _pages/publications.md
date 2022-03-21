@@ -7,17 +7,16 @@ author_profile: false
 
 ## Paper
 
-Coming soon.
+1. Yasuhara M, Nambu I, Yano S. Bilateral Ear Acoustic Authentication: A Biometric Authentication System Using Both Ears and a Special Earphone. *Applied Sciences*. 2022; 12(6):3167. https://doi.org/10.3390/app12063167
 
 ## Pre-print
 
-1. ***Masaki Yasuhara***, Tomoya Takahashi, et. al., INPUT Team Description Paper in 2022, [arXiv:2202.00210](https://arxiv.org/abs/2202.00210).
+1. ***Masaki Yasuhara***, Tomoya Takahashi, Hiroki Maruta, Hiroyuki Saito, Shota Higuchi, Takaaki Nara, Keitaro Takeuchi, Yota Sakai, Kazuki Ishibashi. INPUT Team Description Paper in 2022. https://doi.org/10.48550/arXiv.2202.00210
 
 ## International conference
-1. ***Masaki Yasuhara***, Isao Nambu, Yoshiko Maruyama, and Yasuhiro Wada, Decoding Individual Finger Movements of Motor Execution and Imagery Using CNN from Human EEG, EMBC2021.
+1. ***Masaki Yasuhara***, Isao Nambu, Yoshiko Maruyama, and Yasuhiro Wada. Decoding Individual Finger Movements of Motor Execution and Imagery Using CNN from Human EEG. *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society*. 2021.
 
-1. ***Masaki Yasuhara***, Shohei Yano, Takayuki Arakawa, and Takafumi Koshinaka, Feature Selection and its
-Evaluation in Binaural Ear Acoustic Authentication, Paper 10160, AES Dubrin, https://www.aes.org/e-lib/browse.cfm?elib=20293
+1. ***Masaki Yasuhara***, M. Yasuhara, S. Yano, T. Arakawa, and T. Koshinaka, "Feature Selection and its Evaluation in Binaural Ear Acoustic Authentication," Paper 10160, (2019 March.). https://www.aes.org/e-lib/browse.cfm?elib=20293
 
 
 ## Domestic conference

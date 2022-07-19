@@ -12,7 +12,6 @@ A doctoral student at [Nambu Lab.](https://gallery.nagaokaut.ac.jp/), Nagaoka Un
 
 Since 2018, I'm in charge of the leader for [INPUT](https://input-ssl.dev/) which a robocup SSL team.
 
-In 2017, we became a champion for Robocup Junior Soccer open league. ([website](http://rcjinput.blog.jp/))
 
 # Research Interests
 - Brain Computer Interface
@@ -31,17 +30,17 @@ Department of Electrical and Electronic Systems Engineering, National Institute 
 
 # Awards
 
-1. 2015 RoboCup Junior Japan Open (Soccer Open League) - 6th prize and special prize
+1. 2015 RoboCup Junior Japan Open (Soccer Open League) - 6th place and special prize
 
-1. 2016 RoboCup Junior Japan Open (Soccer Open League) - 5th prize and special prize
+1. 2016 RoboCup Junior Japan Open (Soccer Open League) - 5th place and special prize
 
-1. 2017 RoboCup Junior Japan Open (Soccer Open League) - 1st prize
+1. 2017 RoboCup Junior Japan Open (Soccer Open League) - 1st place
 
-1. RoboCup 2017 Nagoya (Junior Soccer Open Leauge) - 1st prize
+1. RoboCup 2017 Nagoya (Junior Soccer Open Leauge) - 1st place
 
 1. RoboCup Asia-Pacific 2017 Thailand - Best technology prize
 
-1. RoboCup Asia-Pacific 2017 Thailand - Super team 1st prize
+1. RoboCup Asia-Pacific 2017 Thailand - Super team 1st place
 
 1. 2017 高専プロコン自由部門 - 特別賞
 
@@ -59,11 +58,11 @@ Department of Electrical and Electronic Systems Engineering, National Institute 
 
 1. 2018 起業家甲子園 - アイ・オー・データ賞
 
-1. 2018 長岡高専電気電子システム工学科最優秀発表賞（卒研発表）
+1. 2018 長岡高専電気電子システム工学科最優秀発表賞
 
 1. 2018 独立行政法人国立高等専門学校機構 「理事長特別表彰」
 
-1. 2018 長岡市表彰 「RoboCup2017世界大会ロボカップジュニアサ ッカーオープンリーグ個人戦および団体戦で優勝された功績」
+1. 2018 長岡市表彰 「RoboCup2017世界大会ロボカップジュニアサッカーオープンリーグ個人戦および団体戦で優勝された功績」
 
 1. 2018 「NICTオープンハウス2018」学生によるポスターセッション - 優秀研究賞
 

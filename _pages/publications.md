@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Paper
+## Papers
 
-1. **Yasuhara, M.**, Nambu, I., & Yano, S. (2022). Bilateral Ear Acoustic Authentication: A Biometric Authentication System Using Both Ears and a Special Earphone. Applied Sciences, 12(6), 3167. [10.3390/app12063167](https://doi.org/10.3390/app12063167)
+1. Uehara, K., **Yasuhara, M.**, Koguchi, J., Oku, T., Shiotani, S., Morise, M., & Furuya, S. (2023). Brain network flexibility as a predictor of skilled musical performance. *Cerebral Cortex*, 33(20), 10492–10503. [10.1093/cercor/bhad298](https://doi.org/10.1093/cercor/bhad298)
 
-1. Uehara, K., **Yasuhara, M.**, Koguchi, J., Oku, T., Shiotani, S., Morise, M., & Furuya, S. (2023). Brain network flexibility as a predictor of skilled musical performance. Cerebral Cortex, 33(20), 10492–10503. [10.1093/cercor/bhad298](https://doi.org/10.1093/cercor/bhad298)
+1. **Yasuhara, M.**, Nambu, I., & Yano, S. (2022). Bilateral Ear Acoustic Authentication: A Biometric Authentication System Using Both Ears and a Special Earphone. *Applied Sciences*, 12(6), 3167. [10.3390/app12063167](https://doi.org/10.3390/app12063167)
 
 
 ## Pre-print
@@ -20,9 +20,9 @@ author_profile: true
 
 
 ## International conference
-1. **Masaki Yasuhara**, Isao Nambu, Yoshiko Maruyama, and Yasuhiro Wada. Decoding Individual Finger Movements of Motor Execution and Imagery Using CNN from Human EEG. *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society*. 2021.
+1. **Yasuhara, M.**, Nambu, I., Maruyama, Y., & Wada, Y. (2021). Decoding Individual Finger Movements of Motor Execution and Imagery Using CNN from Human EEG. *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society*.
 
-1. **M. Yasuhara**, S. Yano, T. Arakawa, and T. Koshinaka, "Feature Selection and its Evaluation in Binaural Ear Acoustic Authentication," Paper 10160, (2019 March.). [https://www.aes.org/e-lib/browse.cfm?elib=20293](https://www.aes.org/e-lib/browse.cfm?elib=20293)
+1. **Yasuhara, M.**, Yano, S., Arakawa, T., & Koshinaka, T. (2019). Feature Selection and its Evaluation in Binaural Ear Acoustic Authentication. *AES 146th International Convention.* Paper 10160. [https://www.aes.org/e-lib/browse.cfm?elib=20293](https://www.aes.org/e-lib/browse.cfm?elib=20293)
 
 
 ## Domestic conference

@@ -7,6 +7,8 @@ author_profile: true
 
 ## Papers
 
+1. **Yasuhara, M.**, Uehara, K., Oku, T., Shiotani, S., Nambu, I., & Furuya, S. (2024). Robustness and adaptability of sensorimotor skills in expert piano performance. *iScience*, 27(8), 110400. [10.1016/j.isci.2024.110400](https://doi.org/10.1016/j.isci.2024.110400)
+
 1. Uehara, K., **Yasuhara, M.**, Koguchi, J., Oku, T., Shiotani, S., Morise, M., & Furuya, S. (2023). Brain network flexibility as a predictor of skilled musical performance. *Cerebral Cortex*, 33(20), 10492–10503. [10.1093/cercor/bhad298](https://doi.org/10.1093/cercor/bhad298)
 
 1. **Yasuhara, M.**, Nambu, I., & Yano, S. (2022). Bilateral Ear Acoustic Authentication: A Biometric Authentication System Using Both Ears and a Special Earphone. *Applied Sciences*, 12(6), 3167. [10.3390/app12063167](https://doi.org/10.3390/app12063167)
@@ -20,6 +22,8 @@ author_profile: true
 
 
 ## International conference
+1. **Yasuhara, M.**, Uehara, K., Oku, T., Shiotani, S., Nambu, I., & Furuya, S. (2023). Neurophysiological and behavioral responses to transient auditory perturbation in expert pianists and non-musicians. *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society*.
+
 1. **Yasuhara, M.**, Nambu, I., Maruyama, Y., & Wada, Y. (2021). Decoding Individual Finger Movements of Motor Execution and Imagery Using CNN from Human EEG. *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society*.
 
 1. **Yasuhara, M.**, Yano, S., Arakawa, T., & Koshinaka, T. (2019). Feature Selection and its Evaluation in Binaural Ear Acoustic Authentication. *AES 146th International Convention.* Paper 10160. [https://www.aes.org/e-lib/browse.cfm?elib=20293](https://www.aes.org/e-lib/browse.cfm?elib=20293)
